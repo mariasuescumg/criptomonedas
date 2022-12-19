@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .app-header {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient( 109.6deg,  rgb(1, 1, 1) 11.2%, rgb(232, 123, 232) 91.1% );
+    color: rgb(255, 255, 255);
+    font-size:clamp(1rem,4vw,2.5rem);
+    line-height: 56px;
+  }
+  .app-header p{
+    width: 50%;
+    font-family: "Roboto", sans-serif;
+    margin: 2%;
+    font-weight: 700;
+  }
+  .select-button{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    margin-right: 30px;
+  }
+  #coinSelect{
+    height: 20px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-right: 25px;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+  }
+  #coinSelect option{
+    color: rgb(0, 0, 0);
+  }
+  .toogleMode{
+    background-color: transparent;
+    border:none;
+  }
+  svg{
+    font-size: 20px;
+    fill: rgb(255, 255, 255);
+  }

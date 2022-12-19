@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1df29dc.css",
+    "main.js": "/static/js/main.a58f8dce.js",
+    "static/media/LogoMaria.png": "/static/media/LogoMaria.a8739467fd59ac9a8bac.png",
+    "index.html": "/index.html",
+    "main.a1df29dc.css.map": "/static/css/main.a1df29dc.css.map",
+    "main.a58f8dce.js.map": "/static/js/main.a58f8dce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1df29dc.css",
+    "static/js/main.a58f8dce.js"
+  ]
+}
